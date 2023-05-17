@@ -1,0 +1,4 @@
+#Thu May 18 03:35:13 ICT 2023
+base.0=C\:\\Users\\Bagas Dwi Iantoro\\BelajarKotlin223307066\\DessertClickerFinal\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
